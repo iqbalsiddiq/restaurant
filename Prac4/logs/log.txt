@@ -1,0 +1,182 @@
+2015-04-06 17:37:35 infs Login
+2015-04-06 07:37:57 infs Logout by user
+2015-04-06 17:39:09 infs Login
+2015-04-06 07:39:31 infs Logout by user
+2015-04-06 17:42:23 infs Login
+2015-04-06 17:42:45 infs Logout by timer
+2015-04-06 18:06:06  Logout by timer
+2015-04-06 18:06:07  Logout by timer
+2015-04-06 18:06:19 infs Login
+2015-04-06 18:07:24 infs Logout by user
+2015-04-06 18:07:29 infs Login
+2015-04-06 18:07:30 infs Logout by timer
+2015-04-06 18:07:47 infs Login
+2015-04-06 18:08:17 infs Logout by timer
+2015-04-06 18:22:12 infs Login
+2015-04-06 18:22:41 infs Logout by timer
+2015-04-06 18:27:38 infs Login
+2015-04-06 18:28:53 infs Login
+2015-04-06 18:29:56 infs Logout by user
+2015-04-06 18:30:49 infs Login
+2015-04-06 18:31:58 infs Logout by user
+2015-04-06 18:32:05 infs Login
+2015-04-06 18:32:53 infs Logout by user
+2015-04-06 18:32:58 infs Login
+2015-04-06 18:35:01 infs Logout by timer
+2015-04-06 18:35:06 infs Login
+2015-04-06 18:35:07 infs Logout by timer
+2015-04-06 18:35:21 infs Login
+2015-04-06 18:36:52 infs Logout by user
+2015-04-06 18:36:58 infs Login
+2015-04-06 18:37:05 infs Logout by timer
+2015-04-06 18:42:21 infs Login
+2015-04-06 18:42:54 infs Logout by timer
+2015-04-06 18:45:02 infs Login
+2015-04-06 18:45:29 infs Logout by timer
+2015-04-06 18:57:09 infs Login
+2015-04-06 18:58:24 infs Logout by user
+2015-04-06 18:58:29 infs Login
+2015-04-06 18:58:48 infs Logout by timer
+2015-04-06 19:00:13 infs Login
+2015-04-06 19:00:33 infs Logout by user
+2015-04-06 19:00:39 infs Login
+2015-04-06 19:01:30 infs Logout by user
+2015-04-06 19:01:35 infs Login
+2015-04-06 19:02:03 infs Logout by timer
+2015-04-06 19:02:25 infs Login
+2015-04-06 19:02:43 infs Logout by timer
+2015-04-06 19:03:31 infs Login
+2015-04-06 19:03:39 infs Logout by timer
+2015-04-06 19:03:41  Logout by timer
+2015-04-06 19:03:43  Logout by timer
+2015-04-06 19:03:45  Logout by timer
+2015-04-06 19:03:47  Logout by timer
+2015-04-06 19:03:49  Logout by timer
+2015-04-06 19:03:51  Logout by timer
+2015-04-06 19:03:53  Logout by timer
+2015-04-06 19:03:55  Logout by timer
+2015-04-06 19:03:57  Logout by timer
+2015-04-06 19:04:00  Logout by timer
+2015-04-06 19:04:02  Logout by timer
+2015-04-06 19:04:04  Logout by timer
+2015-04-06 19:04:07  Logout by timer
+2015-04-06 19:04:10  Logout by timer
+2015-04-06 19:04:12  Logout by timer
+2015-04-06 19:04:14  Logout by timer
+2015-04-06 19:04:16  Logout by timer
+2015-04-06 19:04:18  Logout by timer
+2015-04-06 19:04:20  Logout by timer
+2015-04-06 19:04:25 infs Login
+2015-04-06 19:04:34 infs Logout by timer
+2015-04-06 19:04:36  Logout by timer
+2015-04-06 19:04:38  Logout by timer
+2015-04-06 19:04:40  Logout by timer
+2015-04-06 19:04:42  Logout by timer
+2015-04-06 19:04:44  Logout by timer
+2015-04-06 19:04:47  Logout by timer
+2015-04-06 19:04:49  Logout by timer
+2015-04-06 19:04:51  Logout by timer
+2015-04-06 19:04:53  Logout by timer
+2015-04-06 19:04:55  Logout by timer
+2015-04-06 19:04:57  Logout by timer
+2015-04-06 19:04:59  Logout by timer
+2015-04-06 19:05:03 infs Login
+2015-04-06 19:05:09 infs Logout by timer
+2015-04-06 19:05:11  Logout by timer
+2015-04-06 19:05:13  Logout by timer
+2015-04-06 19:05:15  Logout by timer
+2015-04-06 19:05:17  Logout by timer
+2015-04-06 19:05:19  Logout by timer
+2015-04-06 19:05:22  Logout by timer
+2015-04-06 19:05:24  Logout by timer
+2015-04-06 19:05:26  Logout by timer
+2015-04-06 19:05:28  Logout by timer
+2015-04-06 19:05:30  Logout by timer
+2015-04-06 19:05:32  Logout by timer
+2015-04-06 19:05:34  Logout by timer
+2015-04-06 19:05:36  Logout by timer
+2015-04-06 19:05:46 infs Login
+2015-04-06 19:06:12 infs Logout by timer
+2015-04-06 19:08:16 infs Login
+2015-04-06 19:08:28 infs Logout by timer
+2015-04-06 19:16:00 infs Login
+2015-04-06 19:16:27 infs Logout by timer
+2015-04-06 19:16:49 infs Login
+2015-04-06 19:17:34 infs Logout by timer
+2015-04-06 19:20:25 infs Login
+2015-04-06 19:32:36 infs Logout by timer
+2015-04-06 19:32:37  Logout by timer
+2015-04-06 19:32:38  Logout by timer
+2015-04-06 19:32:39  Logout by timer
+2015-04-06 19:32:40  Logout by timer
+2015-04-06 19:32:41  Logout by timer
+2015-04-06 19:32:42  Logout by timer
+2015-04-06 19:32:45  Logout by timer
+2015-04-06 19:32:46  Logout by timer
+2015-04-06 19:32:48  Logout by timer
+2015-04-06 19:32:49  Logout by timer
+2015-04-06 19:32:53  Logout by timer
+2015-04-06 19:32:54  Logout by timer
+2015-04-06 19:32:55  Logout by timer
+2015-04-06 19:32:56  Logout by timer
+2015-04-06 19:32:57  Logout by timer
+2015-04-06 19:32:58  Logout by timer
+2015-04-06 19:32:59  Logout by timer
+2015-04-06 19:33:00  Logout by timer
+2015-04-06 19:33:01  Logout by timer
+2015-04-06 19:33:02  Logout by timer
+2015-04-06 19:33:04  Logout by timer
+2015-04-06 19:33:05  Logout by timer
+2015-04-06 19:33:06  Logout by timer
+2015-04-06 19:33:07  Logout by timer
+2015-04-06 19:33:08  Logout by timer
+2015-04-06 19:33:10  Logout by timer
+2015-04-06 19:33:25  Logout by timer
+2015-04-06 19:33:27  Logout by timer
+2015-04-06 19:33:28  Logout by timer
+2015-04-06 19:33:34  Logout by timer
+2015-04-06 19:33:35  Logout by timer
+2015-04-06 19:33:36  Logout by timer
+2015-04-06 19:33:37  Logout by timer
+2015-04-06 19:33:38  Logout by timer
+2015-04-06 19:33:40  Logout by timer
+2015-04-06 19:33:41  Logout by timer
+2015-04-06 19:33:42  Logout by timer
+2015-04-06 19:33:43  Logout by timer
+2015-04-06 19:33:44  Logout by timer
+2015-04-06 19:33:45  Logout by timer
+2015-04-06 19:33:46  Logout by timer
+2015-04-06 19:33:48  Logout by timer
+2015-04-06 19:33:50  Logout by timer
+2015-04-06 19:33:53  Logout by timer
+2015-04-06 19:33:55  Logout by timer
+2015-04-06 19:33:57  Logout by timer
+2015-04-06 19:33:59  Logout by timer
+2015-04-06 19:34:01  Logout by timer
+2015-04-06 19:34:03  Logout by timer
+2015-04-06 19:34:05  Logout by timer
+2015-04-06 19:34:07  Logout by timer
+2015-04-06 19:34:09  Logout by timer
+2015-04-06 19:34:11  Logout by timer
+2015-04-06 19:34:14  Logout by timer
+2015-04-06 19:34:31 infs Login
+2015-04-06 19:35:20 infs Logout by timer
+2015-04-06 19:35:28 infs Login
+2015-04-06 19:35:40 infs Logout by timer
+2015-04-06 19:36:38 infs Login
+2015-04-06 19:36:50 infs Logout by timer
+2015-04-09 17:51:54 infs Login
+2015-04-09 17:52:00 infs Logout by user
+2015-04-11 20:38:01  Logout by user
+2015-04-11 20:38:51  Logout by user
+2015-04-11 20:38:55  Logout by user
+2015-04-11 20:38:57  Logout by user
+2015-04-11 20:39:05  Logout by user
+2015-04-11 20:39:07  Logout by user
+2015-04-11 20:39:08  Logout by user
+2015-04-11 21:12:25  Logout by timer
+2015-04-11 21:16:21  Logout by timer
+2015-04-11 21:39:47  Logout by timer
+2015-04-11 21:39:58  Logout by timer
+2015-04-11 21:41:46  Logout by timer
+2015-04-11 21:41:49  Logout by timer
